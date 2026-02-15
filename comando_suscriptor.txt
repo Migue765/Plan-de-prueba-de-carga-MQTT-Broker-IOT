@@ -1,0 +1,6 @@
+./venv/bin/python subscriber.py \
+--host 54.235.7.213 \
+--port 8082 \
+--user migue \
+--passwd migue12345 \
+--topic colombia/cundinamarca/bogota/migue
